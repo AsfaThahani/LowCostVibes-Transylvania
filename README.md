@@ -12,6 +12,10 @@ A responsive holiday deal page developed using Next.js and React, based on the s
 - Figma
 - Netlify
 
+## Figma Designs
+
+[View Desktop and Mobile Designs](https://www.figma.com/design/ouqyQzBFYutyMLClviwcER/Mysterious-Vibes-in-Transylvania---UI-UX-Assessment.--Copy---Copy-?node-id=4003-680)
+
 ## Features
 
 - Responsive desktop and mobile layouts
@@ -88,4 +92,5 @@ Build command: `npm run build`
 
 ## Development Assistance
 
-AI-assisted development tools were used during implementation and refinement.
+AI-assisted tools were used to support implementation, understand technical concepts, troubleshoot issues and refine the code. 
+The UI/UX design, visual direction and layout decisions were developed independently.
