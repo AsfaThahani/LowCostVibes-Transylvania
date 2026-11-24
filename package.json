@@ -1,0 +1,19 @@
+{
+  "name": "lowcostvibes-transylvania",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "check:data": "node scripts/check-data.mjs"
+  },
+  "dependencies": {
+    "next": "15.5.12",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "@fontsource-variable/lexend": "5.2.10",
+    "@fontsource/afacad": "^5.2.0"
+  },
+  "type": "module"
+}
