@@ -94,6 +94,23 @@ Build command: `npm run build`
 - Due to time constraints, the destination section presents a condensed version of the supplied content. The additional destination details were not implemented.
 - The mobile Figma design was completed first, followed by the desktop design. Several design refinements were introduced during the desktop design and implementation stages. Due to time constraints, these refinements were not fully reflected in the mobile Figma design.
 
+## Testing
+
+- Tested the responsive layout on desktop and mobile.
+- Checked section navigation and enquiry buttons.
+- Tested carousels, accordions and expandable content.
+- Checked light and dark mode functionality.
+- Verified the Netlify deployment.
+
+## Approximate Time Spent
+
+12 November 2026 - 24 November 2026 (approximately two weeks).
+
+The assessment was completed across multiple working sessions,
+including independent research, UI/UX design, frontend
+implementation, design refinements, testing and deployment.
+Exact working hours were not tracked.
+
 ## Development Assistance
 
 AI-assisted tools were used to support implementation, understand technical concepts, troubleshoot issues and refine the code. 
