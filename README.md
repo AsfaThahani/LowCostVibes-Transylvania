@@ -12,6 +12,10 @@ A responsive holiday deal page developed using Next.js and React, based on the s
 - Figma
 - Netlify
 
+## Live Demo
+
+[View Live Website](https://mysterious-vibes-transylvania.netlify.app/)
+
 ## Figma Designs
 
 [View Desktop and Mobile Designs](https://www.figma.com/design/ouqyQzBFYutyMLClviwcER/Mysterious-Vibes-in-Transylvania---UI-UX-Assessment.--Copy---Copy-?node-id=4003-680)
