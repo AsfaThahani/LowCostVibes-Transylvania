@@ -83,6 +83,8 @@ Build command: `npm run build`
 - Testimonials are illustrative content created for the assessment and are not verified customer reviews.
 - Exact inclusions and entrance fees for optional excursions require confirmation.
 - The interpretation of "Beitrag" as "Biertan" is an assumed spelling correction.
+- Due to time constraints, the destination section presents a condensed version of the supplied content. The additional destination details were not implemented.
+- The mobile Figma design was completed first, followed by the desktop design. Several design refinements were introduced during the desktop design and implementation stages. Due to time constraints, these refinements were not fully reflected in the mobile Figma design.
 
 ## Development Assistance
 
